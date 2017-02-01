@@ -1,0 +1,65 @@
+
+.profile_pic {
+
+    max-width: 100px;
+    margin-top: 20px;
+    align:right;
+    margin-left: -13px;
+}
+
+.profiledata {
+
+
+    font-family: Lato;
+    color: #2d3c49;
+    margin-top: 0px;
+}
+
+.feature {
+    font-family: Lato;
+    font-weight: 800;
+    color: #9fb0cc;
+    margin-left: 15px;
+    font-size: 35pt;
+    padding-bottom: 10px;
+    padding-top: 20px;
+
+}
+
+.title-super {
+    font-size: 60px;
+    font-weight: 300;
+}
+
+.ninja {
+    font-weight: 800;
+    margin-top: 0px;
+}
+
+.rule {
+
+
+    height: 5px;
+    border-color: #7d97ad;
+    border-width: 5px;
+    padding-bottom: 15px;
+
+}
+
+.article_text {
+
+    font-family: Lato;
+    color: #2d3c49;
+    text-align: center;
+    font-size: 35pt;
+    font-weight: 800;
+    padding-top: 10px;
+    margin-bottom: 0px;
+}
+
+.article_link {
+    font-size: 15pt;
+    margin-top: 0px;
+    text-align: center;
+    font-weight: 500;
+}
